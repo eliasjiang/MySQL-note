@@ -86,7 +86,7 @@ SELECT DISTINCT department_id
 FROM employees;
 ```
 
-![image-20220519154416422](E:\我的数据库\我的坚果云\发布文章\数据库笔记\image-20220519154416422.png)
+![image](https://github.com/eliasjiang/MySQL-note/blob/main/Images/image-20220519154416422.png)
 
 
 
